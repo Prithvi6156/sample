@@ -1,1 +1,1 @@
-this is my first github console.
+hello from github repository .
