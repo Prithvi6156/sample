@@ -1,2 +1,2 @@
 import pywhat
-pywhatkit.sendwhatmsg('+919566636156','hello from py',10,39)
+pywhatkit.sendwhatmsg('+911233455','hello from py',10,39)
